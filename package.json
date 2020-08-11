@@ -1,0 +1,41 @@
+{
+	"name": "webapp",
+	"version": "1.0.0",
+	"description": "## What is CodeIgniter?",
+	"main": "index.js",
+	"directories": {
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Adi Purnomo",
+	"license": "ISC",
+	"dependencies": {
+		"@babel/polyfill": "^7.8.8",
+		"bootstrap": "^4.5.2",
+		"cssnano": "^4.1.10",
+		"font-awesome": "^4.7.0",
+		"jquery": "^3.5.1",
+		"popper.js": "^1.16.1",
+		"vue": "^2.6.11",
+		"vuetify": "^2.2.15",
+		"webpack": "^4.42.0"
+	},
+	"devDependencies": {
+		"@babel/core": "",
+		"startbootstrap-simple-sidebar": "^5.1.2",
+		"@babel/preset-env": "",
+		"autoprefixer": "",
+		"babel-loader": "",
+		"postcss-loader": "",
+		"mini-css-extract-plugin": "",
+		"deepmerge": "",
+		"fibers": "",
+		"sass": "",
+		"sass-loader": "",
+		"vue-cli-plugin-vuetify": "",
+		"css-loader": "",
+		"webpack-cli": ""
+	}
+}

@@ -1,0 +1,13 @@
+.navbar-brand {
+    margin-left: 7rem;
+    margin-right: 4rem;
+}
+
+sidebar {
+    margin-top: 4rem;
+    font-size: 14px;
+}
+
+.main-container {
+    background-color: #eee;
+}
